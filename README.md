@@ -1,7 +1,11 @@
 # 🎲 Dice Game - JavaScript Web App
 
 A simple web-based dice game where two players roll a dice, and the winner is decided based on who rolls a higher number.
+
+
 ##live demo link:- https://goranshb.github.io/Two_Player_Dice_Game/
+
+
 ## 🚀 How It Works
 
 - Two dice are displayed, one for each player.
